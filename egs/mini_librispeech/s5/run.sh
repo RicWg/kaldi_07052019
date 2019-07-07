@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change this location to somewhere where you want to put the data.
-data=/storage/dataset/voxforge # ./corpus/
+data=/storage/dataset/mini_librispeech # ./corpus/
 
 data_url=www.openslr.org/resources/31
 lm_url=www.openslr.org/resources/11
